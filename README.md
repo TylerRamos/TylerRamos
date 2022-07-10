@@ -100,8 +100,9 @@
 <br/>  
 
 
-## <div align="center">Github Stats</div>    
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerRamos&theme=dark&hide_border=false" align="center" /></div>  
+## <div align="center">Github Stats</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TylerRamos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerRamos&theme=blue-green&hide_border=false" align="center" /></div>  
 
 <br/>   
 
