@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 </div>  
   
 
 ## <div align="center">I'm a 17 year old self taught fullstack software & blockchain developer from Maryland.</div>  
-  
+## 
+## 
 
 #### <div align="center">•  I love Python and JS
 </div>  
@@ -119,4 +120,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
