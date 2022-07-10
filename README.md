@@ -101,7 +101,7 @@
 
 
 ## <div align="center">Github Stats</div>    
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tylerramos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerRamos&theme=dark&hide_border=false" align="center" /></div>  
 
 <br/>   
 
