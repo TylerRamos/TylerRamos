@@ -101,8 +101,8 @@
 
 
 ## <div align="center">Github Stats</div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TylerRamos&theme=radical&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerRamos&theme=radical&hide_border=false" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TylerRamos&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerRamos&theme=nightowl&hide_border=false" align="center" /></div>  
 
 <br/>   
 
