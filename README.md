@@ -13,7 +13,7 @@
 </div>  
   
 
-#### <div align="center">•  I've worked on automation software, various projects involving the Solana & Ethereum network, database & API management</div>  
+#### <div align="center">•  I've worked on automation software, various projects involving the Solana & Ethereum network, and database & API management</div>  
   
 
 #### <div align="center">• I am currently learning React JS</div>  
