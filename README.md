@@ -1,7 +1,7 @@
 ## <div align="center">Hello World!</div>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
 </div>  
   
 
