@@ -5,7 +5,7 @@
 </div>  
   
 
-## <div align="center">I'm a 17 year old self taught fullstack software & blockchain developer from Maryland.</div>  
+## <div align="center">I'm a 18 year old self taught fullstack software & blockchain developer from Maryland.</div>  
 ## 
 ## 
 
